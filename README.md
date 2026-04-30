@@ -26,7 +26,7 @@ Aqui estão as ferramentas e linguagens que utilizo no meu dia a dia:
 
 ### 🤝 Conecte-se comigo
 souzaleticianascimento429@gmail.com
-
+---
 Sou um desenvolvedor apaixonado pela intersecção entre **código** e **design**. Acredito que um software não deve apenas funcionar bem, mas também proporcionar uma experiência visual incrível.
 
 ---
@@ -60,10 +60,8 @@ Sou um desenvolvedor apaixonado pela intersecção entre **código** e **design*
 ---
 
 ### 📫 Vamos criar algo incrível?
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/SEU-INSTAGRAM)
-
+[@souzaa_leeh_]()
 ---
 
 > "O código é como humor. Quando você tem que explicar, é ruim." – Cory House
