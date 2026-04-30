@@ -26,8 +26,7 @@ Aqui estão as ferramentas e linguagens que utilizo no meu dia a dia:
 
 ### 🤝 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souzaleticianascimento429@gmail.com)
 
 Sou um desenvolvedor apaixonado pela intersecção entre **código** e **design**. Acredito que um software não deve apenas funcionar bem, mas também proporcionar uma experiência visual incrível.
 
