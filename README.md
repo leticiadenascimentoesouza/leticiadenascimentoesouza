@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou leticia👋
 
 Sou um desenvolvedor focado em transformar ideias em código, com experiência em tecnologias web e automação.
 
@@ -18,8 +18,8 @@ Aqui estão as ferramentas e linguagens que utilizo no meu dia a dia:
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiadenascimentoesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiadenascimentoesouza&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
