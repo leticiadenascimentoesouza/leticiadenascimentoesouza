@@ -57,9 +57,7 @@ Sou um desenvolvedor apaixonado pela intersecção entre **código** e **design*
 
 ### 📊 Estatísticas Criativas
 
-<p align="left">
-
-</p>
+<img src="Captura de tela 2026-04-30 104956.png"  />
 
 ---
 
