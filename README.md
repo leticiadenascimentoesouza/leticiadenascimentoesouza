@@ -29,6 +29,45 @@ Aqui estão as ferramentas e linguagens que utilizo no meu dia a dia:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
+Sou um desenvolvedor apaixonado pela intersecção entre **código** e **design**. Acredito que um software não deve apenas funcionar bem, mas também proporcionar uma experiência visual incrível.
+
+---
+
+### 🎨 O que eu amo fazer
+* **UI/UX Design:** Criar interfaces intuitivas e esteticamente agradáveis.
+* **Web Design:** Transformar layouts estáticos em sites responsivos e vivos.
+* **Prototipagem:** Dar vida a ideias antes mesmo de escrever a primeira linha de código.
+
+---
+
+### 🛠️ Meu Arsenal Técnico
+
+#### 💻 Desenvolvimento
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🎨 Design & Ferramentas
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+### 📊 Estatísticas Criativas
+
+<p align="left">
+
+</p>
+
+---
+
+### 📫 Vamos criar algo incrível?
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/SEU-INSTAGRAM)
+
 ---
 
 > "O código é como humor. Quando você tem que explicar, é ruim." – Cory House
